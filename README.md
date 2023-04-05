@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=ff7f7f&text=Welcome%to%my%Github!)
