@@ -1,5 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
 ### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=ff7f7f&text=Welcome%to%my%Github!)
+
+#### :sparkling_heart: My growth story :sparkling_heart:
+  
+ <br/>
+ <br/>
+  
+####  :clipboard: Once I've Used 
+  
+ <br/>
+  
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ 
+   <br/>
+   <br/>
+ 
+
 
 <!--
 **wjdals0626/wjdals0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
